@@ -1,0 +1,1 @@
+print("\tteste\nquebra de linha")
